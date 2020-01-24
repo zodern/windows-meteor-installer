@@ -1,0 +1,22 @@
+{
+  "name": "@zodern/windows-meteor-installer",
+  "version": "0.1.0",
+  "description": "Install Meteor on Windows",
+  "main": "install.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node install.js"
+  },
+  "author": "zodern",
+  "license": "MIT",
+  "dependencies": {
+    "node-downloader-helper": "^1.0.11",
+    "7zip-bin": "^5.0.3",
+    "cli-progress": "^3.5.0",
+    "node-7z": "^2.0.5",
+    "tmp": "^0.1.0"
+  },
+  "bin": {
+    "meteorz": "meteor.bat"
+  }
+}
