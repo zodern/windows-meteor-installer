@@ -123,9 +123,9 @@ Meteor has been installed!
 
 To get started fast:
 
-  $ meteor create ~/my_cool_app
+  $ meteorz create ~/my_cool_app
   $ cd ~/my_cool_app
-  $ meteor
+  $ meteorz
 
 Or see the docs at:
 

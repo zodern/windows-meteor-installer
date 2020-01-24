@@ -1,8 +1,8 @@
 ## Windows Meteor Installer
 
-This is an experimental package that installs Meteor on Windows without requiring Administrator privileges or Chocolatey.
+This is an experimental package that installs Meteor on Windows without requiring Administrator privileges or Chocolatey by being an npm package.
 
-To use, run:
+To install Meteor, run:
 ```
 npm i -g @zodern/windows-meteor-installer
 ```
